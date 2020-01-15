@@ -37,5 +37,7 @@ A aplicação desenvolvida deve atender os seguintes requisitos:
   **Ambiente de Desenvolvimento**
 
 -O sistema deve ser desenvolvido utilizando apenas os recursos demonstrados na disciplina DS120 (PHP, Javascript (JQuery), HTML5, CSS3 e algum banco de dados);
+
 -É permitido o uso de frameworks front-end, como Bootstrap e W3.CSS;
+
 -Não é permitido o uso de frameworks back-end.
