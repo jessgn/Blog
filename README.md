@@ -6,18 +6,22 @@ Projeto Final desenvolvido na matéria de Desenvolvimento Web I
 O trabalho prático envolve a criação de uma aplicação WEB completa, ou seja, inclue a implementação de front-end, back-end e possui integração com um banco de dados.
 
 **Tema**
+
 O projeto é um blog de resenha de Livros denominado TADS.
 
-Requisitos Solicitados:
+**Requisitos Solicitados:**
+
 
 A aplicação desenvolvida deve atender os seguintes requisitos:
 
 **Front-end:**
+
   -Uso de HTML5, CSS3 e JS;
   -Interface amigável; ;
   -Validação de campos de formulário;
 
 **Back-end:**
+
   -Integração com um banco de dados:
   -Possuir, ao menos, duas tabelas com relacionamento entre si;
   -Modelagem consistente do banco de dados;
