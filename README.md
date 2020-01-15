@@ -17,15 +17,21 @@ A aplicação desenvolvida deve atender os seguintes requisitos:
 **Front-end:**
 
   -Uso de HTML5, CSS3 e JS;
-  -Interface amigável; ;
+  
+  -Interface amigável;
+  
   -Validação de campos de formulário;
 
 **Back-end:**
 
-  -Integração com um banco de dados:
+  -Integração com um banco de dados;
+  
   -Possuir, ao menos, duas tabelas com relacionamento entre si;
+  
   -Modelagem consistente do banco de dados;
+  
   -Criação, edição e remoção de itens do banco de dados;
+  
   -Validação de campos de formulário e outras informações recebidas.
   
   **Ambiente de Desenvolvimento**
