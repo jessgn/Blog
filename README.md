@@ -7,7 +7,7 @@ O trabalho prático envolve a criação de uma aplicação WEB completa, ou seja
 
 **Tema**
 
-O projeto é um blog de resenha de Livros denominado TADS.
+O projeto é um blog de resenha de Livros denominado **TADS**.
 
 **Requisitos Solicitados:**
 
